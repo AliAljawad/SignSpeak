@@ -1,0 +1,6 @@
+[submodule "Sign-Speak-Front"]
+	path = Sign-Speak-Front
+	url = https://github.com/AliAljawad/Sign-Speak-Front.git
+[submodule "Sign-Speak-Backend"]
+	path = Sign-Speak-Backend
+	url = https://github.com/AliAljawad/Sign-Speak-Backend.git
