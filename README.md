@@ -1,7 +1,4 @@
 <img src="./readme/title1.svg"/>
-
-<br><br>
-
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
@@ -11,12 +8,12 @@
 
 ### User Stories
 
-#### For Regular Users
+#### Regular Users
 - As a regular user, I want to sign into the app, so I can start translating my signs into speech.
 - As a regular user, I want to upload videos and images for translation, so I can get speech output from my saved content.
 - As a regular user, I want to use real-time translation with my camera, so I can see immediate speech output from my sign language.
 
-#### For Mute Users
+#### Mute Users
 - As a mute user, I want to sign into the app, so I can start translating my signs into speech.
 - As a mute user, I want to use the app for real-time translation with my camera, so I can see immediate speech output from my sign language.
 - As a mute user, I want to access a history of my translations, so I can review and refer back to previous translations.
