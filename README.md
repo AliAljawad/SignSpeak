@@ -101,6 +101,9 @@ This Laravel controller handles text-to-speech conversion using the Eleven Labs 
 
 - This project leverages AWS deployment strategies to seamlessly integrate and deploy natural language processing models. With a focus on scalability, reliability, and performance, we ensure that AI applications powered by these models deliver robust and responsive solutions for diverse use cases.
 
+<img src="./readme/assets/login.png" alt="login"/>
+<img src="./readme/assets/getUser.png" alt="getUser"/>
+<img src="./readme/assets/register.png" alt="register"/>
 <br><br>
 
 <!-- Unit Testing -->
