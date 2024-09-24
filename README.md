@@ -45,6 +45,10 @@
 
 > We designed SignSpeak using wireframes and mockups, iterating on the design until we reached the ideal layout for easy navigation and a seamless user experience.
 - Project Figma design [figma](https://www.figma.com/design/jce22W4lDvg7z5WlfgySeo/SignSpeak?node-id=0-1&node-type=canvas&t=CekBLhJ0QhEw6czf-0)
+
+
+<img src="./readme/assets/mediaTranslationPage.png" alt="media translation page"/>
+<img src="./readme/assets/LiveTranslationPage.png" alt="live translation page"/>
 <br><br>
 
 <!-- Database Design -->
