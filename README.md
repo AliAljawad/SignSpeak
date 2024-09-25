@@ -47,8 +47,9 @@
 - Project Figma design [figma](https://www.figma.com/design/jce22W4lDvg7z5WlfgySeo/SignSpeak?node-id=0-1&node-type=canvas&t=CekBLhJ0QhEw6czf-0)
 
 
-<img src="./readme/assets/mediaTranslationPage.png" alt="media translation page"/>
-<img src="./readme/assets/LiveTranslationPage.png" alt="live translation page"/>
+| Media Translation Page | Live Translation Page |
+|------------------------|-----------------------|
+| ![Media Translation Page](./readme/assets/mediaTranslationPage.png) | ![Live Translation Page](./readme/assets/LiveTranslationPage.png) |
 <br><br>
 
 <!-- Database Design -->
